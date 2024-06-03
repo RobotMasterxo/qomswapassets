@@ -3,25 +3,32 @@ Adding Your Token to QOMSWAP
 To have your token listed on QOMSWAP, please follow these guidelines:
 Folder Structure
 
-Create a folder named with the address of your token contract. This folder will contain the required files for listing your token. Ensure the folder is structured as follows:
+    Fork the Repository: Start by forking the QOMSWAP repository.
 
-    0xYourTokenAddress/
-        logo.png
-        telegram.txt
+    Create a Folder: Create a folder named with the address of your token contract. This folder will contain the required files for listing your token. Ensure the folder is structured as follows:
 
+markdown
+
+0xYourTokenAddress/
+    logo.png
+    telegram.txt
 
 Requirements for Each File
+logo.png
 
-    logo.png
-        The logo of your token.
-        Size: Ensure the logo is the same size as the example provided in the repository (256x256 pixels).
-        Format: The logo must be in PNG format.
+    The logo of your token.
+    Size: Ensure the logo is the same size as the example provided in the repository (256x256 pixels).
+    Format: The logo must be in PNG/JPG format.
 
-    telegram.txt
-        NAME: Name 
-        SYMBOL: Symbol 
-        TELEGRAM: (your telegram link)
+telegram.txt
+
+    Content: The content should include the NAME, SYMBOL, and TELEGRAM URL, with no additional text or formatting. It should look like this:
 
 
-        The content should be just the Telegram URL, NAME and SYMBOL no additional text or formatting.
-   
+    NAME: Name 
+    SYMBOL: Symbol 
+    TELEGRAM: (your telegram link)
+
+
+
+
