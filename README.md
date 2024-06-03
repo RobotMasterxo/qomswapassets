@@ -10,5 +10,14 @@ Create a folder named with the address of your token contract. This folder will 
         telegram.txt
 
 
+Requirements for Each File
 
+    logo.png
+        The logo of your token.
+        Size: Ensure the logo is the same size as the example provided in the repository (256x256 pixels).
+        Format: The logo must be in PNG format.
+
+    telegram.txt
+        A plain text file containing the link to your token's official Telegram group.
+        The content should be just the Telegram URL, no additional text or formatting.
    
