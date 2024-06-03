@@ -1,4 +1,4 @@
 
 NAME: QIM
 SYMBOL: QIM
-https://t.me/QIMportalqom
+TELEGRAM: https://t.me/QIMportalqom
