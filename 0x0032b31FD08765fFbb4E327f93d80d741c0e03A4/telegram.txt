@@ -1,0 +1,4 @@
+NAME: PREDATOR
+SYMBOL: PQOM
+TELEGRAM: https://t.me/predatorqom
+LP BURNED: https://scan.qom.one/tx/0x7be51b8c9b6013879fbb7056786f86df4de2161d1e10eeaf0cc0b2f40f149577
