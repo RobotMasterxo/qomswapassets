@@ -20,6 +20,8 @@ Requirements for Each File
     telegram.txt
         NAME: Name 
         SYMBOL: Symbol 
-        A plain text file containing the link to your token's official Telegram group.
+        TELEGRAM: (your telegram link)
+
+
         The content should be just the Telegram URL, NAME and SYMBOL no additional text or formatting.
    
