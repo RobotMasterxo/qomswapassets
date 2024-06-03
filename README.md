@@ -31,6 +31,7 @@ telegram.txt
     NAME: Name 
     SYMBOL: Symbol 
     TELEGRAM: (your telegram link)
+    LP BURNED/LOCKED: Qomscan tx where you locked or burned your LP 
 
 
 
