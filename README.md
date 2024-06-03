@@ -1,3 +1,7 @@
+LP tokens must be burned or locked.
+
+
+
 Adding Your Token to QOMSWAP
 
 To have your token listed on QOMSWAP, please follow these guidelines:
