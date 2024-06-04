@@ -1,1 +1,6 @@
-https://t.me/hawkqrc20
+NAME: HAWK
+SYMBOL: HAWK
+TELEGRAM: https://t.me/hawkqrc20
+
+
+
