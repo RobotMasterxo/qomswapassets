@@ -1,4 +1,4 @@
-LP tokens must be burned or locked.
+LP tokens must be burned 100% or locked minimum 3 months.
 
 
 
