@@ -1,4 +1,4 @@
 NAME: QOM PEPE
 SYMBOL: QOPE
-TELEGRAM: n/a
-LP BURNED: n/a
+TELEGRAM: https://t.me/Qope_Gate
+LP BURNED: https://scan.qom.one/tx/0xcaa5246c17b298f8b0a9220c50d0937d4f24e4b2e5fd8b7557edf47e1068aef1
