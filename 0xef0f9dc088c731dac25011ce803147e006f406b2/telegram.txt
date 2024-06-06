@@ -1,0 +1,4 @@
+NAME: Bird Eat Bird
+SYMBOL: QOMNOM
+TELEGRAM: https://t.me/BirdEatBird
+LP BURNED: https://scan.qom.one/tx/0x59686c151ec229b58cb5533f77c5582dccbc4c0b4f6b1f9e8198082d02aefc86
