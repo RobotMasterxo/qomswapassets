@@ -1,4 +1,4 @@
-LP tokens must be burned 100% 
+CRITERIA: LP tokens must be burned 100% , TELEGRAM REQUIRED, 1 week old, more than 100 Holders minimum 20k liquidity
 
 
 
