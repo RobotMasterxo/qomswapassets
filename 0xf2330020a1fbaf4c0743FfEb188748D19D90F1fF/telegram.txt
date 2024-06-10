@@ -1,0 +1,4 @@
+NAME: BABY HAWK
+SYMBOL: HAWKY
+TELEGRAM: https://t.me/babyhawkqom
+LP BURNED: https://scan.qom.one/tx/0x497e12566a6e87c20e1844324d6778dda70bd033e989e39cd2879320cc161f57
