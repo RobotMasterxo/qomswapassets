@@ -1,0 +1,5 @@
+NAME: Kodai Rise
+SYMBOL: Kodai🐻
+DECIMALS: 18
+TELEGRAM: https://t.me/kodaiqrc20
+LP BURNED/LOCKED: 0x7ca94b959c896ffc170da781c55196171530b9e479278dee5be6ff3842a0ca86
