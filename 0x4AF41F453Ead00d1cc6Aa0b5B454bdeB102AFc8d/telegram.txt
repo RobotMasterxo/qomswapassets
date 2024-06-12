@@ -1,0 +1,3 @@
+NAME: QOMSWAP
+SYMBOL: QSWAP
+TELEGRAM: https://t.me/qomswaportal
