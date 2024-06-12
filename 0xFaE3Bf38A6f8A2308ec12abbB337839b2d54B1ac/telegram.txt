@@ -1,0 +1,4 @@
+NAME: QOMAGA	
+SYMBOL: QOMAGA
+TELEGRAM: tttps://t.me/qomaga1
+100% LP BURNED: https://scan.qom.one/tx/0x55b9027bdb3de7fa692a83064694a99cd4cb581b714564c7b88a7a4e951b2718
