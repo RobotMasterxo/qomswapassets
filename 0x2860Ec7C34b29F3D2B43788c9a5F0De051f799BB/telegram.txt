@@ -1,0 +1,4 @@
+NAME: Robert A. Heinlein (Father)
+SYMBOL: FATHER
+TELEGRAM: https://t.me/Heinlein_Erc20
+LP BURNED: https://scan.qom.one/tx/0xb9ca31e6864bba702b0f1cbbc71ba11ccf0f82bc4fa7c0632120832065ffd2a8
