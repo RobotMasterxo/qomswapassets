@@ -1,0 +1,5 @@
+NAME: Falcon
+SYMBOL: $FALCON
+DECIMALS: (if different than 18)
+TELEGRAM: https://t.me/FalconQOM
+LP BURNED/LOCKED: https://scan.qom.one/tx/0xd81c734dcf15fe70141e7f78d1630059a91684b7e76c23c197b23cc94ce4bfbd
