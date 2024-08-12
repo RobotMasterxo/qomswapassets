@@ -1,3 +1,4 @@
 NAME: QARTEL
 SYMBOL: QAWK
 TELEGRAM: https://t.me/QOMQartel
+100% LP BURNED: https://scan.qom.one/tx/0x77b52db1591f7e235818d6edfb3f1590111b54e7180bef49b54575577dc8322b
