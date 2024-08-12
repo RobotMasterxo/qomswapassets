@@ -1,0 +1,3 @@
+NAME: QARTEL
+SYMBOL: QAWK
+TELEGRAM: https://t.me/QOMQartel
