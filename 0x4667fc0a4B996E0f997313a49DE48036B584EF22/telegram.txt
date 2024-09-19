@@ -1,0 +1,4 @@
+NAME: A Fund Baby (BABY)
+SYMBOL: BABY
+TELEGRAM: https://t.me/afundbaby
+LP BURNED/LOCKED: https://scan.qom.one/tx/0xc2bd548004bd03ba0d0837f14dfc47e3562257e471fdc65efe931fb63136cc26
