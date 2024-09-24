@@ -1,0 +1,4 @@
+NAME: RENXIM
+SYMBOL: RXM
+TELEGRAM: https://t.me/renximQL1
+LP BURNED: https://scan.qom.one/address/0xE6D8f3a7bB25980c5Ae55aC1312D240385DfD0fa
