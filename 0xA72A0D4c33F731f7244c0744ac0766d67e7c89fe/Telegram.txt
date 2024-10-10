@@ -1,0 +1,4 @@
+NAME:TURBO
+SYMBOL: TBR
+TELEGRAM: https://t.me/qomturbo
+LP BURNED: https://scan.qom.one/tx/0x052ada391ec6cca2575dea6cb238f3de22a69d9eaf42b4de118631d1f1db4206
