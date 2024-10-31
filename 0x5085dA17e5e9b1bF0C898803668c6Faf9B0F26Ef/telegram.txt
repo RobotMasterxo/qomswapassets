@@ -1,0 +1,4 @@
+NAME: Sora Inu (SINU)
+SYMBOL: SINU
+TELEGRAM: https://t.me/sorainuqom
+LP BURNED: https://scan.qom.one/tx/0x92aa19c1e621473ae0a1d7fba854243b302f9b76c887e20ea2ae90eef1672274
