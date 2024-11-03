@@ -1,4 +1,4 @@
 NAME: VULTURES (VLT)
 SYMBOL: VLT
 TELEGRAM: https://t.me/VulturesVLT
-LP BURNED: https://scan.qom.one/tx/0xe654a4b1844c9e561bdf04be26e6109904720c704a5fd878c08e579ec6cb0bf6
+LP BURNED: https://scan.qom.one/tx/0xaf46de23f29c0ea972cf8ee298c0b94143d378a10704f03c8775c0e0619703cb
