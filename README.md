@@ -1,11 +1,4 @@
-CRITERIA: LP tokens must be burned 100% , TELEGRAM REQUIRED, 1 week old, more than 100 Holders minimum 20k liquidity
-
-
-
-Adding Your Token to QOMSWAP
-
-To have your token listed on QOMSWAP, please follow these guidelines:
-Folder Structure
+0xAC0d6D4DC3f34B489A5bC580D83884aF2A33ebad
 
     Fork the Repository: Start by forking the QOMSWAP repository.
 
