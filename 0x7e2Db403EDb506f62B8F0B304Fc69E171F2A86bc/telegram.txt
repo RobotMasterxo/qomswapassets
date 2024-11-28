@@ -1,0 +1,4 @@
+NAME: PARADOX
+SYMBOL: DOX
+TELEGRAM: https://t.me/paradoxentity
+LP BURNED: https://scan.qom.one/tx/0x5a3972a120f3f911fda4324e816729765f1b33841cf870b6ef26cca398f60ddf
