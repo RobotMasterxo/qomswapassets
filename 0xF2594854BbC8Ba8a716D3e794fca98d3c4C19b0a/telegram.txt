@@ -1,0 +1,4 @@
+NAME: A Graceful Omen (ERUTA)
+SYMBOL: ERUTA
+TELEGRAM: https://t.me/AGracefulOmenErutaCommunity
+LP BURNED/LOCKED: https://scan.qom.one/tx/0x1e264a586c77e43256ade98ce376c3337042af62a2b648a726292429f9ccffbf
