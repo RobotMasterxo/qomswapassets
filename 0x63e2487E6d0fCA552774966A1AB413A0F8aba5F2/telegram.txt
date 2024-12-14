@@ -1,0 +1,4 @@
+NAME: Teh Fund (FUND)
+SYMBOL: FUND
+TELEGRAM: https://t.me/tehfund
+LP BURNED/LOCKED: https://scan.qom.one/tx/0x286adcaa3a0803700a4a1e268f3216c6c3263b6a9c280402db5f8213f0062d40
