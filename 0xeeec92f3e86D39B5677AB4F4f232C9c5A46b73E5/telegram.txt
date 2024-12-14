@@ -1,0 +1,4 @@
+NAME: The One Question (ET)
+SYMBOL: ET
+TELEGRAM: https://t.me/etportal
+LP BURNED: https://scan.qom.one/tx/0xcf8b0d8c384486a498b00732cc602940a08664b135e868bc0ce18c2385de0fc7
