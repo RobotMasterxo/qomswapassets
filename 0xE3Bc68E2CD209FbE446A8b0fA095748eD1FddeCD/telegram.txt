@@ -1,0 +1,4 @@
+NAME: Sublime Society (VIBES)
+SYMBOL: VIBES
+TELEGRAM: https://t.me/SublimeSociety
+LP BURNED: https://scan.qom.one/tx/0xbf792929f921213f82cda8047868fe363926c110ce6bf4ba389ccb81b154318f
