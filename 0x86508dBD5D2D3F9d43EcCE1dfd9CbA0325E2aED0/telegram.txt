@@ -1,0 +1,4 @@
+NAME: PLAGUE DOCTOR
+SYMBOL: PDR
+TELEGRAM: https://t.me/DoctorplagueQl1
+LP BURNED: https://scan.qom.one/address/0xbbfB3066230b71a3272C17cE4f7F35A8E8Cb0B5c
