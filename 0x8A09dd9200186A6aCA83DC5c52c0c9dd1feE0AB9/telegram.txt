@@ -1,0 +1,3 @@
+NAME: DONOTBUYTEST
+SYMBOL: TEST
+TELEGRAM: https://t.me/test
